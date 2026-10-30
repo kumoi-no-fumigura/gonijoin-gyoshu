@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/gonijoin-gyoshu",
  "yomi": "ごにじょういんぎょしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "御集",
+  "era": "鎌倉後期",
+  "author": "後二条院",
+  "desc": "後二条院の御集で、「愚藻」とも題される。四季・恋・雑の題詠を収め、亀山殿などでの当座の詠も見える。"
+ },
  "editions": [
   {
    "pid": "1088203",
